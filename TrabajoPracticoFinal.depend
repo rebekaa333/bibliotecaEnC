@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1717714108 source:c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\archivos.c
+	"archivos.h"
+	"usuarios.h"
+	"conio.h"
+	"string.h"
+
+1717713829 c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\archivos.h
+
+1717108299 source:c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\domicilio.c
+	"domicilio.h"
+
+1717108298 c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\domicilio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1719522785 source:c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"usuarios.h"
+	"comentario.h"
+	"libros.h"
+
+1719522872 source:c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\usuarios.c
+	"usuarios.h"
+	"domicilio.h"
+
+1719258559 c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\usuarios.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"domicilio.h"
+
+1491400450 source:c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1719522849 source:c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\comentario.c
+	"comentario.h"
+	<conio.h>
+	"string.h"
+
+1719522669 c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\comentario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1719523872 c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\libros.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+
+1719523893 source:c:\users\lenovo\desktop\utn\programacion\tp final\trabajopracticofinal\libros.c
+	"libros.h"
+
+1719522849 source:c:\users\lenovo\desktop\trabajopracticofinal\comentario.c
+	"comentario.h"
+	<conio.h>
+	"string.h"
+
+1719522669 c:\users\lenovo\desktop\trabajopracticofinal\comentario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1717108299 source:c:\users\lenovo\desktop\trabajopracticofinal\domicilio.c
+	"domicilio.h"
+
+1717108298 c:\users\lenovo\desktop\trabajopracticofinal\domicilio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1491400450 source:c:\users\lenovo\desktop\trabajopracticofinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1719526218 source:c:\users\lenovo\desktop\trabajopracticofinal\libros.c
+	"libros.h"
+
+1719523872 c:\users\lenovo\desktop\trabajopracticofinal\libros.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+
+1719522872 source:c:\users\lenovo\desktop\trabajopracticofinal\usuarios.c
+	"usuarios.h"
+	"domicilio.h"
+
+1719258559 c:\users\lenovo\desktop\trabajopracticofinal\usuarios.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	"domicilio.h"
+
+1719524745 source:c:\users\lenovo\desktop\trabajopracticofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"usuarios.h"
+	"comentario.h"
+	"libros.h"
+
